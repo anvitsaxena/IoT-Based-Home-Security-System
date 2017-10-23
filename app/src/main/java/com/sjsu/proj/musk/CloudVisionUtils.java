@@ -25,7 +25,7 @@ import java.util.Map;
 public class CloudVisionUtils {
     public static final String TAG = CloudVisionUtils.class.getSimpleName();
 
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyCrWD9_MsbzI8BLiJ7kcKkT5r-Z1xJOnXk";
+    private static final String CLOUD_VISION_API_KEY = "YOUR API KEY";
 
     private static final String LABEL_DETECTION = "LABEL_DETECTION";
 
